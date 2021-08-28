@@ -10,3 +10,4 @@ Dem följande bilderna visar hur appen ser ut frånstart, vid tryck av objekt i 
 ![Screenshot_1630157837](https://user-images.githubusercontent.com/62877630/131219832-f1326435-f65f-4b29-b015-7a9c3ad16031.png)
 ![Screenshot_1630157841](https://user-images.githubusercontent.com/62877630/131219836-070540fc-53d5-4849-8a1f-2133046707b3.png)
 ![Screenshot_1630157850](https://user-images.githubusercontent.com/62877630/131219839-c1bcd974-3f19-4372-9cd7-dc542894a206.png)
+
